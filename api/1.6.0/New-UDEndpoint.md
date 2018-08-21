@@ -17,7 +17,7 @@ New-UDEndpoint -Endpoint <ScriptBlock> -Url <String> [-Method <String>] [<Common
 ```
 
 ## DESCRIPTION
-Creates a new REST API endpoint. This can be used with Start-UDDashboard nad Start-UDRestApi. All URLs are automatically prefixed with /api.
+Creates a new REST API endpoint. This can be used with Start-UDDashboard and Start-UDRestApi. All URLs are automatically prefixed with /api.
 
 ## EXAMPLES
 
